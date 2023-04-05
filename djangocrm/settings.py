@@ -25,7 +25,7 @@ SECRET_KEY = 'so+8xjlc3ktc$oxa*85o=@(!)$wbl$ouom)&u($w*0x-ns*d74'
 # SECURITY WARNING: don't run with debug turned on in production!
 # # 에러 페이지 랜딩 전, 랜딩할 때 False 로 수정해야 함
 DEBUG = True
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
