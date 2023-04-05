@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DjangoEcuzo.iml" filepath="$PROJECT_DIR$/.idea/DjangoEcuzo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/django_prj.iml" filepath="$PROJECT_DIR$/.idea/django_prj.iml" />
     </modules>
   </component>
 </project>
