@@ -29,8 +29,8 @@
 - 프론트 개발
     - ajax CRUD   View에 연결
     - update page js를 이용한 애니메이션 처리 , edit page, result page
-
-
+## DJANGO ERD_ Ecuzo    
+![Django ERD](/erd_ecuzo.JPG)
 
 ### 🗓️ 프로젝트 진행 기간
 
