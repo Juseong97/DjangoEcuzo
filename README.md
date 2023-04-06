@@ -27,8 +27,9 @@
     - 데이터 구조 설계
     - CRUD 구현
 - 프론트 개발
-    - ajax CRUD   View에 연결
-    - update page js를 이용한 애니메이션 처리 , edit page, result page
+    - 유저 권한별 접근요소 제한
+    - Ajax를 이용한 데이터 통신 및 삽입 처리 구현
+    - update page js를 이용한 애니메이션 구현
 ## DJANGO ERD_ Ecuzo    
 ![Django ERD](/erd_ecuzo.JPG)
 
