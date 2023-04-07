@@ -2,7 +2,7 @@
 # 로봇 모니터링 시스템
 
 ## DJANGO 동작방식   
-![Django ERD](/장고 동작방식.JPG)
+![Django ERD](/howto.JPG)
 
 ## 📙 요약
 
